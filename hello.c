@@ -3,5 +3,5 @@
 
 if (x>y)
 {
-    printf("x" is less than "y')
+    printf("x" is less than "y")
 }
