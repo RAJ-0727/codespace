@@ -5,7 +5,7 @@ int main(void)
 {
     char c = get_char("do you agree? ");
 
-    if (c == 'y')
+    if (c == 'Y')
     {
         printf("Agreed.\n");
     }
